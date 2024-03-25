@@ -12,4 +12,5 @@ QEMU, a Quick EMUlator enabling the booting of kernels in a virtual machine with
 In terms of coding, the primary objective when starting from scratch is often to display content on the screen. This typically involves interacting with VGA (Visual Graphics Array), the hardware responsible for controlling display output.
 *Implementation *
 
-TicTacToe & Keyboard 
+TicTacToe & Hello World
+
